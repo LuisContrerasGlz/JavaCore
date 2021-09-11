@@ -1,7 +1,7 @@
 package javaAssignment1;
 
 import java.util.Scanner;
-
+//  Write a Java program that takes three numbers as input to calculate and print the average of the numbers
 public class averageOf3Num {
 
 	public static void main(String[] args) {
