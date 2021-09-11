@@ -1,7 +1,7 @@
 package javaAssignment1;
 
 import java.util.Scanner;
-
+// Write a Java program to divide two numbers and print on the screen.
 public class div2num {
 
 	public static void main(String[] args) {
