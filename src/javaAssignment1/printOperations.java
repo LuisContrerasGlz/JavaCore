@@ -1,7 +1,7 @@
 package javaAssignment1;
 
 import java.util.Scanner;
-
+// Write a Java program to print the sum (addition), multiply, subtract, divide and remainder of two numbers.
 public class printOperations {
 
 	public static void main(String[] args) {
