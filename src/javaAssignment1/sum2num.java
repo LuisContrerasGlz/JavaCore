@@ -2,6 +2,7 @@ package javaAssignment1;
 
 import java.util.Scanner;
 
+/* Write a Java program to print the sum of two numbers.*/
 public class sum2num {
 
 	public static void main(String[] args) {
