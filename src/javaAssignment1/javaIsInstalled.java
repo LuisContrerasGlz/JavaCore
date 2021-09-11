@@ -1,7 +1,7 @@
 package javaAssignment1;
 
 import java.util.Scanner;
-
+// Write a Java program to check whether Java is installed on your computer
 public class javaIsInstalled {
 
 	public static void main(String[] args) {
