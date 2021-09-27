@@ -36,24 +36,3 @@ public class SingleDDemo {
 	}
 	
 	
-/*WAP to enter Regiteration_No,Name of 5 students 
-1. Enter their marks in 3 subjects
-2. Find Total of their marks
-3. Find Percentage
-4. Find Grades
-<=50  grade=Average
->50 && <=65 grade=Good
->65 && <=75 grade= v. Good
-Excellent
-
-									Report Card
-Reg No				Name			English       Science     Maths       Total      %age     Grade
-1				   	A                 90           87          76           253       75      V.Good
-2                   B                
-
-
-*/
-
-
-}
-//Write a programme to find dublicate elements in an array and print its index no
