@@ -30,4 +30,3 @@ public class TwoDArray {
 	}
 
 }
-//Write a programme to add 2 matrix and print result in third matrix
