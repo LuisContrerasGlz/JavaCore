@@ -27,6 +27,3 @@ public class SortingDemo {
 	}
 
 }
-/*WAP to find larger no
-Wap to find smaller no
-Wap to search an element from an array*/
