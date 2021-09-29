@@ -11,3 +11,13 @@ Practice programs for Java Core, covering different topics for programming with 
 - Exception Handling And File I/O 
 - Packages, Exploring All Java Packages 
 - Collection 
+
+## Software for java
+
+JDK: https://www.oracle.com/java/technologies/downloads/
+
+Eclipse: https://www.eclipse.org/downloads/
+IntelliJ IDEA: https://www.jetbrains.com/es-es/idea/download/#section=windows
+
+
+
