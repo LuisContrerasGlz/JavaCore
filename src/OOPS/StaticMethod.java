@@ -20,7 +20,6 @@ public class StaticMethod {
 	public static void test(int n)
 	{
 		num=n;
-		//input();
 		System.out.println("Enter Company Name");
 		companyname=s.next();
 		
@@ -31,7 +30,6 @@ public class StaticMethod {
 	}
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		StaticMethod.test(10);//Static methods belongs to class 
 		StaticMethod.main(10);
