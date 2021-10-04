@@ -1,12 +1,9 @@
 package InheritanceDemo;
 
-//import java.util.Scanner;
-
 public class EmpQualDetails extends EmpSalDetails {
 String bachelordegree;
 String masterdegree;
 
-//Scanner s2=new Scanner(System.in);
 public EmpQualDetails()
 {
 	//super();
