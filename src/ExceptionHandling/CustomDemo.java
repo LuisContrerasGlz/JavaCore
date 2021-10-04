@@ -20,7 +20,7 @@ public class CustomDemo {
 		}
 	}
 	public static void main(String[] args) throws InvalidAgeException {
-		// TODO Auto-generated method stub
+		
 		CustomDemo oo=new CustomDemo();
 		oo.input();
 	}
