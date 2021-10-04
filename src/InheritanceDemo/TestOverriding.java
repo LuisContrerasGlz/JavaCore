@@ -3,7 +3,7 @@ package InheritanceDemo;
 public class TestOverriding {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		demo1 oo=new demo1();
 		oo.p(20.4);
 		oo.p(45);
