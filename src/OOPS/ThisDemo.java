@@ -21,10 +21,6 @@ public class ThisDemo {
 		System.out.println(n);
 	}
 	public static void main(String[] args) {
-		//System.out.println(this.radius);
-		// TODO Auto-generated method stub
-//		ThisDemo oo=new ThisDemo();
-//		oo.findarea(12.34f);
 		ThisDemo obj=new ThisDemo(45);
 	}
 
