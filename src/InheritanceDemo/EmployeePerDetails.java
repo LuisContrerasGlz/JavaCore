@@ -31,11 +31,6 @@ public class EmployeePerDetails {
 		System.out.println("Qualification is:"+qual);
 
 	}
-//	public static void main(String[] args) {
-//		// TODO Auto-generated method stub
-//		EmployeePerDetails oo=new EmployeePerDetails();
-//		oo.input();
-//		oo.display();
-//	}
+
 
 }
