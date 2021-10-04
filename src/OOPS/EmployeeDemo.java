@@ -7,9 +7,7 @@ public class EmployeeDemo {
 	public String getEmpid() {
 		return empid;
 	}
-//	public void setEmpid(String empid) {
-//		this.empid = empid;
-//	}
+
 	public String getName() {
 		return name;
 	}
