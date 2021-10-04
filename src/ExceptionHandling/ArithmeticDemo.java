@@ -55,7 +55,7 @@ public class ArithmeticDemo {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		ArithmeticDemo oo=new ArithmeticDemo();
 		oo.input();
 	}
