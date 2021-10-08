@@ -8,11 +8,10 @@ import java.io.IOException;
 public class ReadFileUsingFileInputStream {
 
 	public static void main(String[] args) throws IOException {
-		// TODO Auto-generated method stub
+		
 		String path="D://Pankaj.txt";
 		int c=0;
-	//	try
-		//{
+	
 			File file=new File(path);
 			FileInputStream fip=new FileInputStream(file);
 			System.out.println("Contents of file is:");
@@ -20,11 +19,8 @@ public class ReadFileUsingFileInputStream {
 			{
 				System.out.print((char)c);
 			}
-		//}
-//		catch (IOException e) {
-//			// TODO: handle exception
-//			e.printStackTrace();
-//		}
+		
+
 		
 	}
 
