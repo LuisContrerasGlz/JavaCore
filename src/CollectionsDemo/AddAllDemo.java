@@ -55,25 +55,9 @@ public class AddAllDemo {
 			System.out.println("Element is not present in List");
 		}
 		System.out.println("Does array list contains array list2:"+arr.containsAll(arr1));
-		//arr1.clear();
+		
 		System.out.println(arr1.isEmpty());
-//		Iterator<Integer> i=arr.iterator();
-//		while(i.hasNext())
-//		{
-//			if(arr.equals(3))
-//			{
-//				i.remove();
-//				System.out.println("3 is removed from list");
-//				break;
-//			}
-//			else
-//			{
-//				System.out.println("not contains 3 in List");
-//				break;
-//			}
-//			
-//		}
-//		System.out.println(arr);
+
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
