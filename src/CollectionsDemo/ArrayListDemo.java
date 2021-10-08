@@ -21,10 +21,6 @@ public void input()
 	System.out.println(al.remove(1));
 	System.out.println(al);
 	System.out.println("------------------");
-//	for(Object o:al)
-//	{
-//		System.out.println(o);
-//	}
 	
 	Iterator<Object> it=al.iterator();
 	while(it.hasNext())
@@ -43,7 +39,7 @@ public void input()
 	
 }
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		ArrayListDemo oo=new ArrayListDemo();
 		oo.input();
 	}
